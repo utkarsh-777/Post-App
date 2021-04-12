@@ -1,0 +1,11 @@
+.vl {
+    border-left: 3px solid lightgray;
+    height: 200px;
+  }
+
+#profile{
+  margin-top: 2%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
